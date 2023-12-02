@@ -1,0 +1,19 @@
+{
+  "Festivals": {
+    "DescriptiveWords": [
+      "Joyous", "Lively", "Festive", "Sacred", "Ancient",
+      "Ceremonial", "Traditional", "Seasonal", "Grand", "Majestic",
+      "Bountiful", "Harvest", "Moonlit", "Starlit", "Mythical"
+    ],
+    "Nouns": [
+      "Feast", "Tournament", "Carnival", "Ball", "Fair",
+      "Joust", "Ceremony", "Ritual", "Parade", "Banquet",
+      "Gala", "Masquerade", "Gathering", "Festival", "Celebration"
+    ],
+    "Actions": [
+      "Celebrate", "Dance", "Sing", "Feast", "Compete",
+      "Honor", "Revere", "Parade", "Toast", "Unite",
+      "Revel", "Commune", "Bless", "Decorate", "Mingle"
+    ]
+  }
+}

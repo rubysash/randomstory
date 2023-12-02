@@ -1,0 +1,42 @@
+{
+  "Introduce": {
+    "DescriptiveWords": [
+      "Bay", "Woods", "Mountains", "Vale", "River", "Town", "Village", "Room",
+      "Cave", "Desert", "Island", "Ocean", "Beach", "Castle", "Temple",
+      "Marketplace", "Forest", "Prairie", "Canyon", "Lake",
+      "Harbor", "Tower", "Palace", "Alley", "Garden",
+      "Meadow", "Field", "Bridge", "Ruins", "Tavern",
+      "Library", "Street", "Farm", "Valley", "Grotto",
+      "Cliff", "Fortress", "Port", "Inn", "Campsite",
+      "Glacier", "Volcano", "City", "Hamlet", "Dungeon",
+      "Monastery", "Shrine", "Bazaar", "Oasis", "Grove",
+      "Mansion", "Estuary", "Marsh", "Swamp", "Fjord",
+      "Underground", "Abyss", "Cathedral", "Battleground", "Arena",
+      "Ship", "Workshop", "Galley", "Labyrinth", "Observatory",
+      "Waterfall", "Creek", "Delta", "Hill", "Pond",
+      "Chamber", "Crypt", "Sewer", "Throne Room", "Barracks"
+    ],
+    "Nouns": [
+      "Dawn", "Morning", "Brunch", "Afternoon", "Nap time", "Evening", "Night", "Late Night", "Midnight", "After Midnight",
+      "Sunrise", "Noon", "Midday", "Dusk", "Twilight",
+      "Sunset", "Early Morning", "Break of Day", "High Noon", "Tea Time",
+      "Golden Hour", "Blue Hour", "Witching Hour", "Mid-morning", "Pre-dawn",
+      "Lunchtime", "Early Evening", "Supper Time", "Bedtime", "Deep Night",
+      "Moonrise", "Moonset", "Starlight Time", "Before Dawn", "Daybreak",
+      "Late Afternoon", "Early Afternoon", "Mid-Evening", "Late Evening", "Pre-midnight",
+      "Midnight Hour", "Early Night", "Before Sunrise", "After Dusk", "Before Sunset",
+      "Gloaming", "Nightfall", "Eventide", "Crepuscular Hour", "Morningtide",
+      "Noontide", "First Light", "Last Light", "Daytime", "Nighttime",
+      "Peak Hour", "Quiet Hour", "Rush Hour", "Siesta Time", "Vesper Hour"
+    ],
+    "Actions": [
+      "Hot", "Cold", "Muggy", "Fog", "Rain", "Wind", "Snow", "Hail", "Lightning", "Thunder", "Breeze", "Frozen",
+      "Sulphur", "Bog rot", "Putrescence", "Rain", "Cut grass", "Campfire", "Fragrance", "Mountain air", "Wet dog", "Body odor", "Stale air", "Damp air", "Fish", "Cookies",
+      "Pine", "Sea salt", "Burning wood", "Fresh bread", "Floral", "Citrus", "Spices", "Smoke", "Mud", "Dew",
+      "Leather", "Metal", "Chlorine", "Petrichor", "Sandalwood", "Vanilla", "Tobacco", "Incense", "Rotten eggs", "Fresh paint",
+      "Cinnamon", "Garlic", "Onion", "Peppermint", "Honey", "Mold", "Barbecue", "Coffee", "Gunpowder", "Lilac",
+      "Cedar", "Jasmine", "Lavender", "Diesel", "Chocolate", "Barnyard", "Ginger", "Apple", "Vinegar", "Pumpkin"
+    ]
+  }
+}
+

@@ -1,0 +1,22 @@
+{
+  "Undead": {
+    "DescriptiveWords": [
+      "Haunted", "Ghostly", "Rotting", "Cursed", "Silent",
+      "Chilling", "Ghastly", "Morbid", "Nocturnal", "Shadowy",
+      "Spectral", "Unholy", "Vile", "Wicked", "Zombified",
+      "Blighted", "Creepy", "Eerie", "Foggy", "Grisly"
+    ],
+    "Nouns": [
+      "Crypt", "Zombie", "Ghost", "Vampire", "Tomb",
+      "Banshee", "Coffin", "Demon", "Fiend", "Ghoul",
+      "Lich", "Mummy", "Poltergeist", "Revenant", "Shade",
+      "Skeleton", "Specter", "Wraith", "Necromancer", "Graveyard"
+    ],
+    "Actions": [
+      "Haunt", "Decay", "Terrify", "Rise", "Whisper",
+      "Bewitch", "Claw", "Devour", "Enchant", "Fester",
+      "Gloom", "Howl", "Infect", "Lurk", "Moan",
+      "Ravage", "Shriek", "Thrall", "Unearth", "Vanish"
+    ]
+  }
+}

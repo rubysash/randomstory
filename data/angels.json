@@ -1,0 +1,22 @@
+{
+  "Angels": {
+    "DescriptiveWords": [
+      "Celestial", "Holy", "Radiant", "Divine", "Ethereal",
+      "Graceful", "Glorious", "Seraphic", "Cherubic", "Blessed",
+      "Heavenly", "Luminous", "Resplendent", "Spirited", "Virtuous",
+      "Guardian", "Archangelic", "Eminent", "Hallowed", "Transcendent"
+    ],
+    "Nouns": [
+      "Angel", "Seraph", "Cherub", "Archangel", "Guardian",
+      "Emissary", "Messenger", "Protector", "Herald", "Spirit",
+      "Watcher", "Divinity", "Dominion", "Throne", "Virtue",
+      "Power", "Principalities", "Ascendant", "Celestine", "Aeon"
+    ],
+    "Actions": [
+      "Guard", "Bless", "Protect", "Guide", "Illuminate",
+      "Ascend", "Descend", "Reveal", "Proclaim", "Heal",
+      "Comfort", "Sanctify", "Empower", "Watch", "Purify",
+      "Redeem", "Enlighten", "Summon", "Manifest", "Glorify"
+    ]
+  }
+}

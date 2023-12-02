@@ -1,0 +1,45 @@
+{
+  "Medieval": {
+    "DescriptiveWords": [
+      "Old", "Mystical", "Dark", "Shining", "Abandoned",
+      "Ancient", "Glorious", "Majestic", "Enchanted", "Foreboding",
+      "Sacred", "Mighty", "Dreaded", "Hidden", "Lost",
+      "Gleaming", "Rustic", "Stoic", "Valiant", "Whispered",
+      "Feudal", "Mythical", "Noble", "Arcane", "Fortified",
+      "Opulent", "Decayed", "Legendary", "Hallowed", "Fabled",
+      "Venerable", "Imposing", "Magical", "Dilapidated", "Haunted",
+      "Barren", "Lush", "Prosperous", "Winding", "Secluded",
+      "Ornate", "Rugged", "Towering", "Bustling", "Desolate",
+      "Serene", "Cobwebbed", "Labyrinthine", "Crumbling", "Invincible"
+    ],
+    "Nouns": [
+      "Castle", "Sword", "Knight", "Dragon", "Forest",
+      "Chalice", "Throne", "Wizard", "Tavern", "Armor",
+      "Crown", "Dagger", "Falcon", "Goblet", "Horse",
+      "Jester", "Monk", "Princess", "Shield", "Village",
+      "Bow", "Arrow", "Siege", "Keep", "Moat",
+      "Drawbridge", "Peasant", "Scepter", "Banner", "Potion",
+      "Hermit", "Champion", "Oracle", "Ballad", "Banquet",
+      "Tunic", "Anvil", "Grail", "Alchemy", "Cathedral",
+      "Lute", "Paladin", "Tapestry", "Carriage", "Guild",
+      "Mace", "Sorcery", "Fortress", "Scabbard", "Baron",
+      "Serf", "Minstrel", "Battlement", "Trebuchet", "Citadel",
+      "Codex", "Dungeon", "Griffin", "Rampart", "Lantern",
+      "Fiefdom", "Gauntlet", "Herald", "Relic", "Steed",
+      "Squire", "Vassal", "Witch", "Pilgrimage", "Festival"
+    ],
+    "Actions": [
+      "Quest", "Battle", "Rescue", "Curse", "Reign",
+      "Conquer", "Defend", "Explore", "Forge", "Hunt",
+      "Intrigue", "Joust", "Plunder", "Revel", "Siege",
+      "Summon", "Trade", "Wander", "Yearn", "Zeal",
+      "Construct", "Decree", "Vanquish", "Rule", "Embark",
+      "Duel", "Negotiate", "Enchant", "Govern", "Chant",
+      "Feast", "Harvest", "Train", "Craft", "Brew",
+      "March", "Retreat", "Spy", "Entertain", "Bargain",
+      "Swear", "Banish", "Ally", "Pray", "Flee",
+      "Marry", "Betray", "Plot", "Serenade", "Rebuild",
+      "Sail", "Honor", "Pillage", "Educate", "Enthrone"
+    ]
+  }
+}

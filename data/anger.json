@@ -1,0 +1,22 @@
+{
+  "Anger": {
+    "DescriptiveWords": [
+      "Furious", "Irritated", "Enraged", "Aggressive", "Annoyed",
+      "Hostile", "Incensed", "Indignant", "Provoked", "Wrathful",
+      "Temperamental", "Outraged", "Exasperated", "Frustrated", "Irate",
+      "Offended", "Vengeful", "Resentful", "Heated", "Inflamed"
+    ],
+    "Nouns": [
+      "Anger", "Rage", "Fury", "Outburst", "Temper",
+      "Irritation", "Wrath", "Tantrum", "Displeasure", "Annoyance",
+      "Hostility", "Indignation", "Vexation", "Spite", "Grievance",
+      "Frustration", "Resentment", "Umbrage", "Chagrin", "Rancor"
+    ],
+    "Actions": [
+      "Yell", "Argue", "Confront", "Accuse", "Complain",
+      "Protest", "Resent", "Clash", "Dispute", "Retaliate",
+      "Exasperate", "Challenge", "Oppose", "Insult", "Critique",
+      "Scold", "Rebuke", "Blame", "Explode", "Fume"
+    ]
+  }
+}

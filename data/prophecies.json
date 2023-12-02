@@ -1,0 +1,22 @@
+{
+  "Prophecies": {
+    "DescriptiveWords": [
+      "Mystical", "Foretold", "Ominous", "Prophetic", "Ancient",
+      "Cryptic", "Apocalyptic", "Visionary", "Fateful", "Oracular",
+      "Divine", "Ethereal", "Esoteric", "Mysterious", "Portentous",
+      "Augural", "Enigmatic", "Prescient", "Chimerical", "Sibylline"
+    ],
+    "Nouns": [
+      "Prophecy", "Omen", "Vision", "Seer", "Oracle",
+      "Prediction", "Premonition", "Revelation", "Divination", "Harbinger",
+      "Fortune", "Destiny", "Fate", "Augury", "Portent",
+      "Sign", "Prognostication", "Foreshadow", "Soothsaying", "Foreboding"
+    ],
+    "Actions": [
+      "Predict", "Foretell", "Warn", "Reveal", "Prophesy",
+      "Divine", "Foresee", "Envision", "Decipher", "Herald",
+      "Portend", "Manifest", "Echo", "Unravel", "Illuminate",
+      "Transpire", "Conceive", "Presage", "Indicate", "Symbolize"
+    ]
+  }
+}

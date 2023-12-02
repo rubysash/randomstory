@@ -1,0 +1,22 @@
+{
+  "Traps": {
+    "DescriptiveWords": [
+      "Hidden", "Deadly", "Mechanical", "Magical", "Treacherous",
+      "Cunning", "Deceptive", "Poisonous", "Ancient", "Complex",
+      "Dangerous", "Sneaky", "Explosive", "Electrified", "Ensnaring",
+      "Pitfall", "Pendulum", "Spiked", "Sawblade", "Alarm"
+    ],
+    "Nouns": [
+      "Pit", "Spike", "Net", "Gas", "Blade",
+      "Arrow", "Fire", "Rope", "Bear Trap", "Snare",
+      "Tripwire", "Pressure Plate", "Swinging Axe", "Pendulum", "Quicksand",
+      "Mimic", "Web", "Magnet", "Vortex", "Flashbang"
+    ],
+    "Actions": [
+      "Spring", "Trigger", "Collapse", "Activate", "Detonate",
+      "Snare", "Impale", "Crush", "Ensnare", "Entangle",
+      "Explode", "Shoot", "Slice", "Burn", "Electrocute",
+      "Blind", "Deafen", "Immobilize", "Teleport", "Disarm"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Professions": {
+    "DescriptiveWords": [
+      "Skilled", "Experienced", "Artisan", "Crafty", "Hardworking",
+      "Dedicated", "Knowledgeable", "Expert", "Renowned", "Respected",
+      "Practiced", "Efficient", "Industrious", "Resourceful", "Ingenious",
+      "Creative", "Accomplished", "Talented", "Proficient", "Adept"
+    ],
+    "Nouns": [
+      "Blacksmith", "Baker", "Farmer", "Carpenter", "Tailor",
+      "Butcher", "Mason", "Miner", "Barber", "Fletcher",
+      "Weaver", "Tanner", "Cobbler", "Cooper", "Miller",
+      "Fisherman", "Hunter", "Alchemist", "Herbalist", "Scribe",
+      "Armorer", "Bowyer", "Brewer", "Glassblower", "Jeweler",
+      "Leatherworker", "Locksmith", "Merchant", "Potter", "Roofer",
+      "Ropemaker", "Shipwright", "Silversmith", "Smith", "Thatcher",
+      "Wheelwright", "Wool Merchant", "Bookbinder", "Candlemaker", "Cartographer",
+      "Chandler", "Clerk", "Clockmaker", "Cutler", "Dyer",
+      "Embroiderer", "Engraver", "Furrier", "Girdler", "Goldsmith",
+      "Hayward", "Illuminator", "Innkeeper", "Ironmonger", "Launderer",
+      "Mason", "Navigator", "Painter", "Parchmenter", "Pastrycook",
+      "Pewterer", "Physician", "Plasterer", "Plowman", "Poulterer",
+      "Reeve", "Saddler", "Salt Boiler", "Sculptor", "Shoemaker",
+      "Spicer", "Spinner", "Stonecutter", "Surgeon", "Tapestrier",
+      "Tiler", "Tudor", "Vintner", "Waterbearer", "Winemaker"
+    ],
+    "Actions": [
+      "Forge", "Bake", "Cultivate", "Build", "Sew",
+      "Butcher", "Carve", "Extract", "Trim", "Craft",
+      "Weave", "Tan", "Repair", "Cooperate", "Grind",
+      "Fish", "Hunt", "Mix", "Cure", "Write",
+      "Armor", "String", "Brew", "Blow", "Set",
+      "Work", "Lock", "Trade", "Shape", "Cover",
+      "Twine", "Construct", "Emboss", "Hammer", "Thatch",
+      "Turn", "Deal", "Bind", "Mold", "Map",
+      "Light", "Record", "Time", "Cut", "Dye",
+      "Adorn", "Engrave", "Sell", "Gild", "Clean",
+      "Lay", "Navigate", "Paint", "Prepare", "Cook",
+      "Cast", "Heal", "Plaster", "Plow", "Raise",
+      "Manage", "Saddle", "Boil", "Sculpt", "Shoe",
+      "Season", "Spin", "Split", "Operate", "Hang",
+      "Tile", "Educate", "Ferment", "Carry", "Produce"
+    ]
+  }
+}

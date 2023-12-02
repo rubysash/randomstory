@@ -1,0 +1,22 @@
+{
+  "Cults": {
+    "DescriptiveWords": [
+      "Secret", "Mystical", "Occult", "Esoteric", "Fanatical",
+      "Heretical", "Dark", "Mysterious", "Hidden", "Forbidden",
+      "Eerie", "Sinister", "Sacrificial", "Arcane", "Eldritch",
+      "Cryptic", "Shrouded", "Unholy", "Enigmatic", "Ancient"
+    ],
+    "Nouns": [
+      "Cult", "Sect", "Order", "Society", "Circle",
+      "Cabal", "Guild", "Brotherhood", "Congregation", "Coven",
+      "Assembly", "Chapel", "Sanctum", "Cultist", "Priest",
+      "Acolyte", "Shaman", "Oracle", "Initiate", "Prophet"
+    ],
+    "Actions": [
+      "Worship", "Summon", "Conduct", "Enchant", "Sacrifice",
+      "Prophesy", "Initiate", "Meditate", "Invoke", "Pray",
+      "Mystify", "Commune", "Conspire", "Transcend", "Ritualize",
+      "Celebrate", "Venerate", "Infiltrate", "Convert", "Ascend"
+    ]
+  }
+}

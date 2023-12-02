@@ -1,0 +1,19 @@
+{
+  "Factions": {
+    "DescriptiveWords": [
+      "Secretive", "Powerful", "Ancient", "Mysterious", "Influential",
+      "Renowned", "Feared", "Respected", "Cunning", "Elite",
+      "Rebel", "Loyal", "Honorable", "Treacherous", "Mercantile"
+    ],
+    "Nouns": [
+      "Thieves Guild", "Mage Circle", "Knights Order", "Merchant Consortium", "Assassins Brotherhood",
+      "Alchemists Society", "Fighters League", "Druids Conclave", "Rangers Coalition", "Necromancers Faction",
+      "Royal Court", "Rebels Alliance", "Pirate Crew", "Craftsmen Guild", "Scholars Academy"
+    ],
+    "Actions": [
+      "Scheme", "Conspire", "Trade", "Negotiate", "Ally",
+      "Betray", "Spy", "Protect", "Explore", "Revolt",
+      "Govern", "Enforce", "Enlighten", "Craft", "Study"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Castles": {
+    "DescriptiveWords": [
+      "Imposing", "Ancient", "Sturdy", "Regal", "Fortified",
+      "Grand", "Opulent", "Strategic", "Mysterious", "Gloomy",
+      "Vast", "Impenetrable", "Majestic", "Haunted", "Ruined",
+      "Dilapidated", "Elegant", "Stoic", "Prestigious", "Legendary"
+    ],
+    "Nouns": [
+      "Castle", "Keep", "Tower", "Fortress", "Palace",
+      "Battlement", "Citadel", "Gatehouse", "Dungeon", "Rampart",
+      "Throne Room", "Hall", "Chamber", "Armory", "Parapet",
+      "Bailey", "Moat", "Drawbridge", "Courtyard", "Barbican",
+      "Great Hall", "Chapel", "Solar", "Buttery", "Pantry",
+      "Kitchen", "Larder", "Bakehouse", "Brewhouse", "Guardroom",
+      "Stables", "Kennel", "Smithy", "Workshop", "Gallery",
+      "Library", "Scriptorium", "Oratory", "Boudoir", "Almonry",
+      "Cistern", "Wardrobe", "Privy", "Latrine", "Laundry",
+      "Nursery", "Bedchamber", "Guest Room", "Study", "Tower Room",
+      "Observatory", "Portcullis", "Herb Garden", "Cloister", "Chamfer",
+      "Turret", "Loophole", "Embrasure", "Battlement", "Ballroom",
+      "Catacomb", "Crypt", "Vault", "Cellar", "Storage Room",
+      "Tapestry Room", "Music Room", "Dining Hall", "Banquet Hall", "Audience Chamber",
+      "Sewing Room", "Falconry", "Terrace", "Atrium", "Rooftop"
+    ],
+    "Actions": [
+      "Defend", "Storm", "Rule", "Dwell", "Reign",
+      "Fortify", "Invade", "Siege", "Restore", "Abandon",
+      "Construct", "Explore", "Garrison", "Occupy", "Overlook",
+      "Host", "Plan", "Plot", "Navigate", "Entertain",
+      "Feast", "Convene", "Celebrate", "Worship", "Train",
+      "Craft", "Cook", "Preserve", "Store", "Protect",
+      "Rest", "Sleep", "Study", "Observe", "Work",
+      "Pray", "Hide", "Secure", "Reinforce", "Patrol",
+      "Monitor", "Watch", "Perform", "Meet", "Receive",
+      "Dine", "Entertain", "Relax", "Prepare", "Outfit"
+    ]
+  }
+}
+

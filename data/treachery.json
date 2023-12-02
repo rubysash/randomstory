@@ -1,0 +1,32 @@
+{
+  "Treachery": {
+    "DescriptiveWords": [
+      "Deceptive", "Cunning", "Duplicitous", "Treacherous", "Sly",
+      "Scheming", "Underhanded", "Manipulative", "Betraying", "Dishonest",
+      "Sneaky", "Crafty", "Unfaithful", "Fraudulent", "Misleading",
+      "Conniving", "Subversive", "Disloyal", "False", "Two-faced"
+    ],
+    "Nouns": [
+      "Betrayal", "Deception", "Conspiracy", "Fraud", "Sabotage",
+      "Trap", "Hoax", "Double-cross", "Lies", "Scam",
+      "Forgery", "Blackmail", "Deceit", "Ruse", "Masquerade",
+      "Swindle", "Charade", "Sham", "Seduction", "Ambush",
+      "Falsehood", "Trickery", "Manipulation", "Espionage", "Ploy",
+      "Feint", "Guile", "Subterfuge", "Bribery", "Extortion",
+      "Intrigue", "Slander", "Imposture", "Perfidy", "Skulduggery",
+      "Duping", "Flimflam", "Scandal", "Undermining", "Backstabbing",
+      "Frame-up", "Deceitfulness", "Hypocrisy", "Machination", "Enticement",
+      "Snare", "Gambit", "Pretext", "Subversion", "Coercion"
+    ],
+    "Actions": [
+      "Betray", "Deceive", "Scheme", "Manipulate", "Conspire",
+      "Mislead", "Defraud", "Sabotage", "Double-cross", "Trap",
+      "Swindle", "Forge", "Blackmail", "Lie", "Seduce",
+      "Impersonate", "Feign", "Bribe", "Extort", "Slander",
+      "Undermine", "Entice", "Infiltrate", "Exploit", "Backstab",
+      "Frame", "Entangle", "Coerce", "Outmaneuver", "Disguise",
+      "Bluff", "Bamboozle", "Falsify", "Outwit", "Trap",
+      "Ensnare", "Hoodwink", "Counterfeit", "Distract", "Misrepresent"
+    ]
+  }
+}

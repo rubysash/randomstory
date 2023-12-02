@@ -1,0 +1,31 @@
+{
+  "Sailing": {
+    "DescriptiveWords": [
+      "Seafaring", "Nautical", "Maritime", "Adventurous", "Stormy",
+      "Rugged", "Buoyant", "Wind-swept", "Legendary", "Treacherous",
+      "Salty", "Pirate-infested", "Mysterious", "Vast", "Boundless",
+      "Turbulent", "Briny", "Harsh", "Uncharted", "Merciless"
+    ],
+    "Nouns": [
+      "Ship", "Sloop", "Galleon", "Frigate", "Brig",
+      "Schooner", "Dinghy", "Yacht", "Clipper", "Man-of-War",
+      "Pirate", "Sailor", "Captain", "First Mate", "Deckhand",
+      "Anchor", "Compass", "Sextant", "Map", "Treasure Chest",
+      "Jolly Roger", "Harpoon", "Cannon", "Spyglass", "Rum Barrel",
+      "Kraken", "Mermaid", "Seagull", "Whale", "Shark",
+      "Island", "Lagoon", "Reef", "Port", "Dock",
+      "Wave", "Storm", "Wind", "Sail", "Rudder",
+      "Crow's Nest", "Galley", "Helm", "Mast", "Keel",
+      "Buccaneer", "Mariner", "Privateer", "Smuggler", "Fisherman"
+    ],
+    "Actions": [
+      "Sail", "Navigate", "Plunder", "Conquer", "Explore",
+      "Trade", "Raid", "Steer", "Anchor", "Dock",
+      "Fish", "Harpoon", "Row", "Swab", "Hoist",
+      "Repair", "Battle", "Outmaneuver", "Capture", "Flee",
+      "Drink", "Sing", "Map", "Discover", "Chase",
+      "Escape", "Smuggle", "Rescue", "Survive", "Commandeer",
+      "Chart", "Patrol", "Embark", "Disembark", "Scuttle"
+    ]
+  }
+}

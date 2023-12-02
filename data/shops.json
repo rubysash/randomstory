@@ -1,0 +1,22 @@
+{
+  "Shops": {
+    "DescriptiveWords": [
+      "Bustling", "Quaint", "Artisanal", "Busy", "Cluttered",
+      "Crafty", "Diverse", "Well-stocked", "Scented", "Noisy",
+      "Colorful", "Lavish", "Modest", "Exotic", "Rustic",
+      "Packed", "Organized", "Inviting", "Rare", "Curious"
+    ],
+    "Nouns": [
+      "Blacksmith", "Bakery", "Apothecary", "Butchery", "Tannery",
+      "Jeweler", "Carpentry", "Bookshop", "Tailor", "Cobbler",
+      "Armorer", "Herbalist", "Pottery", "Candlemaker", "Leatherworker",
+      "Weaver", "Glassblower", "Fishmonger", "Spicery", "Silversmith"
+    ],
+    "Actions": [
+      "Forge", "Bake", "Mix", "Cut", "Sew",
+      "Craft", "Hammer", "Write", "Measure", "Mend",
+      "Sharpen", "Brew", "Shape", "Mold", "Tan",
+      "Spin", "Blow", "Catch", "Grind", "Polish"
+    ]
+  }
+}

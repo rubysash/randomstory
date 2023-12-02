@@ -1,0 +1,46 @@
+{
+  "Modern": {
+    "DescriptiveWords": [
+      "Digital", "Futuristic", "Corrupt", "Innovative", "Controversial",
+      "Artificial", "Virtual", "Cybernetic", "Automated", "Networked",
+      "Globalized", "Sophisticated", "Manipulative", "Deceptive", "Polarized",
+      "Transparent", "Surveilled", "Smart", "Algorithmic", "Interconnected",
+      "Holographic", "Wireless", "Blockchain-based", "Cloud-integrated", "Robotic",
+      "Hyperconnected", "Quantum", "Augmented", "Virtual Reality", "Biometric",
+      "Cryptographic", "Data-driven", "Eco-friendly", "Voice-activated", "Machine Learning",
+      "Self-driving", "Genetically Engineered", "5G", "Remote", "Drone-operated",
+      "Social Media", "Streaming", "Influencer", "Gig Economy", "Subscription-based",
+      "Deepfake", "Phishing", "Big Data", "Hacker", "Encryption",
+      "Satellite", "Nanotechnology", "Renewable Energy", "Wearable Tech", "3D Printing",
+      "Telemedicine", "E-Sports", "Virtual Assistant", "Internet of Things", "Smart City"
+    ],
+    "Nouns": [
+      "Skyscraper", "Drone", "AI", "Social Network", "Hacker",
+      "Cryptocurrency", "Smartphone", "Electric Car", "Virtual Reality Headset", "Quantum Computer",
+      "Blockchain", "Data Center", "Cloud Service", "Biometric Scanner", "Surveillance Camera",
+      "Electric Scooter", "Solar Panel", "Wind Turbine", "Streaming Service", "Telepresence Robot",
+      "Genome Editor", "3D Printer", "Smartwatch", "Wireless Charger", "Autonomous Vehicle",
+      "Gaming Console", "VR Game", "Augmented Reality App", "Fitness Tracker", "Smart Home Device",
+      "Online Marketplace", "E-Book Reader", "Digital Wallet", "Wearable Camera", "Drones",
+      "Eco-friendly Building", "Hyperloop", "Space Tourism Rocket", "Flying Taxi", "Virtual Classroom",
+      "Remote Work Software", "Podcast", "Vlogging Camera", "Smart Glasses", "Facial Recognition System",
+      "Cybersecurity Software", "Deepfake Detector", "AI Chatbot", "Virtual Influencer", "5G Network",
+      "Esports Arena", "Cybercafe", "Greenhouse", "Lab-grown Meat Facility", "Desalination Plant",
+      "Electric Bike Share", "Sustainable Farm", "Rideshare App", "Crowdfunding Platform", "Online Forum",
+      "Data Breach", "Government Database", "Public Surveillance System", "Robotics Lab", "Quantum Network"
+    ],
+    "Actions": [
+      "Innovate", "Hack", "Stream", "Post", "Tweet",
+      "Influence", "Encrypt", "Decentralize", "Automate", "Optimize",
+      "Track", "Monitor", "Analyze", "Predict", "Simulate",
+      "Connect", "Engage", "Navigate", "Explore", "Virtualize",
+      "Disrupt", "Crowdsource", "Share", "Subscribe", "Download",
+      "Invest", "Trade", "Vlog", "Collaborate", "Telecommute",
+      "Fabricate", "Replicate", "Transact", "Scan", "Integrate",
+      "Recharge", "Broadcast", "Detect", "Filter", "Moderate",
+      "Program", "Interface", "Query", "Remotely Control", "Manipulate",
+      "Protest", "Expose", "Whistleblow", "Viralize", "Streamline",
+      "Gamify", "Upvote", "Swipe", "Customize", "Synchronize"
+    ]
+  }
+}

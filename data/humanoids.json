@@ -1,0 +1,22 @@
+{
+  "Humanoids": {
+    "DescriptiveWords": [
+      "Savage", "Mystical", "Wily", "Brutish", "Cunning",
+      "Fearsome", "Stealthy", "Ruthless", "Crafty", "Warlike",
+      "Ancient", "Tribal", "Feral", "Devious", "Marauding",
+      "Nomadic", "Barbaric", "Vicious", "Primal", "Shamanic"
+    ],
+    "Nouns": [
+      "Orc", "Kobold", "Ogre", "Hobgoblin", "Goblin",
+      "Warrior", "Shaman", "Chieftain", "Scout", "Berserker",
+      "Raider", "Hunter", "Mystic", "Witch Doctor", "Brute",
+      "Scavenger", "Spearman", "Warlord", "Outcast", "Ranger"
+    ],
+    "Actions": [
+      "Raid", "Ambush", "Conquer", "Plunder", "Hunt",
+      "Scout", "Scheme", "Fight", "Forage", "Track",
+      "Challenge", "Defend", "Worship", "Lead", "Survive",
+      "Dominate", "Negotiate", "Patrol", "Wander", "Craft"
+    ]
+  }
+}

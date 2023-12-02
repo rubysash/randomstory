@@ -1,0 +1,22 @@
+{
+  "Diseases": {
+    "DescriptiveWords": [
+      "Deadly", "Contagious", "Pestilential", "Rampant", "Incurable",
+      "Malignant", "Virulent", "Pernicious", "Endemic", "Epidemic",
+      "Infectious", "Lethal", "Blighted", "Crippling", "Debilitating",
+      "Fevered", "Putrid", "Noxious", "Decaying", "Corrupting"
+    ],
+    "Nouns": [
+      "Plague", "Pox", "Fever", "Ague", "Cholera",
+      "Typhus", "Dysentery", "Smallpox", "Leprosy", "Influenza",
+      "Scourge", "Pestilence", "Blight", "Consumption", "Scurvy",
+      "Malaria", "Measles", "Tuberculosis", "Black Death", "Bubonic"
+    ],
+    "Actions": [
+      "Afflict", "Ravage", "Spread", "Infect", "Decimate",
+      "Devastate", "Weaken", "Suffer", "Endure", "Quarantine",
+      "Combat", "Cure", "Recover", "Writhe", "Perish",
+      "Ail", "Contaminate", "Plague", "Eradicate", "Fester"
+    ]
+  }
+}

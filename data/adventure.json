@@ -1,0 +1,22 @@
+{
+  "Adventure": {
+    "DescriptiveWords": [
+      "Epic", "Treacherous", "Daring", "Perilous", "Uncharted",
+      "Exciting", "Thrilling", "Mysterious", "Exotic", "Unknown",
+      "Rugged", "Remote", "Wild", "Dangerous", "Legendary",
+      "Distant", "Vast", "Forbidden", "Enigmatic", "Breathtaking"
+    ],
+    "Nouns": [
+      "Journey", "Expedition", "Quest", "Voyage", "Odyssey",
+      "Adventure", "Trek", "Exploration", "Mission", "Crusade",
+      "Pilgrimage", "Safari", "Excursion", "Escapade", "Traversal",
+      "Venture", "Tour", "Junket", "Expedience", "Expanse"
+    ],
+    "Actions": [
+      "Explore", "Discover", "Traverse", "Unearth", "Journey",
+      "Navigate", "Travel", "Seek", "Survey", "Investigate",
+      "Map", "Chart", "Probe", "Pursue", "Embark",
+      "Wander", "Roam", "Sail", "Climb", "Trek"
+    ]
+  }
+}

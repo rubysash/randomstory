@@ -1,0 +1,40 @@
+{
+  "Phenomena": {
+    "DescriptiveWords": [
+      "Mysterious", "Ephemeral", "Breathtaking", "Surreal", "Extraordinary",
+      "Unbelievable", "Phenomenal", "Rare", "Majestic", "Magical",
+      "Enigmatic", "Wondrous", "Otherworldly", "Spectacular", "Transient",
+      "Mesmerizing", "Unpredictable", "Fascinating", "Awe-inspiring", "Incredible"
+    ],
+    "Nouns": [
+      "Aurora Borealis", "Solar Eclipse", "Lunar Eclipse", "Fire Rainbow", "Ball Lightning",
+      "Bioluminescence", "Haboob", "Mirage", "Fogbow", "Brocken Spectre",
+      "Sun Dog", "Green Flash", "Blue Moon", "St. Elmo's Fire", "Fata Morgana",
+      "Halos", "Moonbow", "Blood Rain", "Catatumbo Lightning", "Sun Pillar",
+      "Morning Glory Clouds", "Fire Whirl", "Supercell", "Diamond Dust", "Sailing Stones",
+      "Starling Murmuration", "Brinicle", "Ice Circles", "Light Pillar", "Snow Roller",
+      "Mammatus Clouds", "Gravity Wave", "Sprites", "Fallstreak Hole", "Frost Flower",
+      "Glory", "Sundog", "Bog Gas", "Volcanic Lightning", "Dirty Thunderstorm",
+      "Singing Sand", "Solar Flare", "Bolt from the Blue", "Sun Halo", "Dust Devil",
+      "Fire Devil", "Ice Volcano", "Pyrocumulus Cloud", "Crepuscular Rays", "Antarctic Hair",
+      "Crown Flash", "Penitentes", "Katabatic Wind", "Anvil Cloud", "Steam Devil",
+      "Moon Illusion", "Supermoon", "Tide Bore", "Blue Jet", "Fireflies",
+      "Water Spout", "Will-o'-the-Wisp", "Rain of Fish", "Animal Rain", "Spider Rain",
+      "Snow Donut", "Ice Spike", "Frost Quake", "Earthquake Light", "Underwater Crop Circle",
+      "Geyser", "Thundersnow", "Sandstorm", "Coral Spawning", "Red Tide",
+      "Lake Turnover", "Bioluminescent Waves", "Ice Shove", "Whirlpool", "Tsunami",
+      "Rogue Wave", "Thermal Vent", "Mud Volcano", "Geothermal Spring", "Lenticular Clouds",
+      "Sea Foam", "Snow Tsunami", "Fog Tsunami", "Meteor Shower", "Perseid Meteor Shower",
+      "Geminid Meteor Shower", "Lyrid Meteor Shower", "Zodiacal Light", "Space Weather", "Atmospheric Duct"
+    ],
+    "Actions": [
+      "Illuminate", "Emerge", "Reveal", "Occur", "Transform",
+      "Glow", "Flash", "Eclipse", "Reflect", "Refraction",
+      "Shimmer", "Appear", "Disappear", "Resonate", "Whirl",
+      "Twist", "Descend", "Ascend", "Revolve", "Rotate",
+      "Sway", "Rumble", "Drift", "Billow", "Erupt",
+      "Burst", "Dissipate", "Coalesce", "Crystallize", "Precipitate",
+      "Migrate", "Hover", "Expand", "Condense", "Flicker"
+    ]
+  }
+}

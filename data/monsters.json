@@ -1,0 +1,41 @@
+{
+  "Monsters": {
+    "DescriptiveWords": [
+      "Ferocious", "Mighty", "Venomous", "Terrifying", "Enormous",
+      "Sinister", "Savage", "Ancient", "Mystical", "Brutal",
+      "Aggressive", "Deadly", "Fiery", "Icy", "Shadowy",
+      "Invisible", "Undead", "Aquatic", "Flying", "Burrowing"
+    ],
+    "Nouns": [
+      "Dragon", "Ogre", "Goblin", "Troll", "Hydra",
+      "Wyvern", "Basilisk", "Cyclops", "Wraith", "Manticore",
+      "Griffin", "Chimera", "Minotaur", "Sphinx", "Kraken",
+      "Lich", "Behemoth", "Werewolf", "Vampire", "Zombie",
+      "Golem", "Ghoul", "Specter", "Djinn", "Harpy",
+      "Cerberus", "Naga", "Banshee", "Gorgon", "Hippogriff",
+      "Kobold", "Balrog", "Yeti", "Succubus", "Roc",
+      "Giant", "Imp", "Siren", "Centaur", "Cockatrice",
+      "Pixie", "Leprechaun", "Satyr", "Genie", "Mimic",
+      "Bogeyman", "Mummy", "Faun", "Dryad", "Mermaid",
+      "Mothman", "Sandworm", "Rakshasa", "Bunyip", "Chupacabra",
+      "Kappa", "Gremlin", "Basilisk", "Wendigo", "Lamia",
+      "Revenant", "Sprite", "Familiar", "Tengu", "Barghest",
+      "Ghast", "Dullahan", "Hellhound", "Incubus", "Jorogumo",
+      "Kitsune", "Mandrake", "Nekomata", "Oni", "Poltergeist",
+      "Quetzalcoatl", "Selkie", "Troll", "Ubume", "Valkyrie",
+      "Wight", "Xana", "Yuki-onna", "Ziz", "Aboleth",
+      "Baku", "Cait Sith", "Doppelganger", "Ettin",
+      "Fomorian", "Grendel", "Huldra", "Iboga", "Jackalope",
+      "Kamaitachi", "Lamassu", "Mara", "Nuckelavee", "Oread",
+      "Peryton", "Qilin", "Rusalka", "Simurgh", "Tarasque",
+      "Uktena", "Vetala", "Will-o'-the-wisp", "Xiangliu", "Yeth Hound",
+      "Zombie", "Aswang", "Barguest", "Catoblepas", "Dybbuk"
+    ],
+    "Actions": [
+      "Roar", "Stomp", "Charge", "Bite", "Fly",
+      "Invisibilize", "Teleport", "Enchant", "Breathe Fire", "Summon",
+      "Cast Spells", "Slash", "Howl", "Regenerate", "Devour",
+      "Haunt", "Curse", "Shoot Poison", "Spew Acid", "Drain Life"
+    ]
+  }
+}

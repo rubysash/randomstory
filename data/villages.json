@@ -1,0 +1,22 @@
+{
+  "Villages": {
+    "DescriptiveWords": [
+      "Quaint", "Rustic", "Peaceful", "Bucolic", "Idyllic",
+      "Charming", "Sleepy", "Secluded", "Thriving", "Picturesque",
+      "Traditional", "Remote", "Cozy", "Inviting", "Festive",
+      "Bustling", "Historic", "Simple", "Quiet", "Serene"
+    ],
+    "Nouns": [
+      "Village", "Hamlet", "Town", "Settlement", "Community",
+      "Township", "Outpost", "Homestead", "Cottage", "Farm",
+      "Marketplace", "Tavern", "Chapel", "Square", "Field",
+      "Mill", "Orchard", "Pasture", "Well", "Stable"
+    ],
+    "Actions": [
+      "Gather", "Celebrate", "Harvest", "Trade", "Grow",
+      "Worship", "Meet", "Build", "Rest", "Work",
+      "Play", "Mingle", "Cultivate", "Fish", "Cook",
+      "Barter", "Forge", "Sow", "Raise", "Tend"
+    ]
+  }
+}

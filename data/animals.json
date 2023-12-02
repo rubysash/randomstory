@@ -1,0 +1,35 @@
+{
+  "Animals": {
+    "DescriptiveWords": [
+      "Ferocious", "Aggressive", "Territorial", "Predatory", "Defensive",
+      "Dangerous", "Wild", "Unpredictable", "Protective", "Threatening",
+      "Menacing", "Fierce", "Rabid", "Vigilant", "Intimidating",
+      "Dominant", "Alert", "Ruthless", "Savage", "Vicious"
+    ],
+    "Nouns": [
+      "Bear", "Wolf", "Mountain Lion", "Jaguar", "Hyena",
+      "Tiger", "Leopard", "Crocodile", "Hippopotamus", "Rhino",
+      "Elephant", "Buffalo", "Wild Boar", "Rattlesnake", "Gorilla",
+      "Cheetah", "Alligator", "Bull", "Moose", "Eagle",
+      "Hawk", "Falcon", "Komodo Dragon", "Shark", "Walrus",
+      "Polar Bear", "Wolverine", "Bison", "Anaconda", "Cobra",
+      "Lion", "Grizzly Bear", "Badger", "Baboon", "Cassowary",
+      "Pit Viper", "Wild Dog", "Lynx", "Ocelot", "Raccoon",
+      "Scorpion", "Tasmanian Devil", "Honey Badger", "Black Widow Spider", "Piranha",
+      "Dingo", "Tarantula", "Puma", "King Cobra", "Vulture",
+      "Wildcat", "Chimpanzee", "Barracuda", "Monitor Lizard", "Wildebeest",
+      "Mongoose", "Jackal", "Boa Constrictor", "Caracal", "Cougar",
+      "Gila Monster", "Harpy Eagle", "Serval", "Jellyfish", "Kangaroo",
+      "Orangutan", "Panther", "Quokka", "Sea Lion", "Sloth Bear",
+      "Snow Leopard", "Stingray", "Tiger Shark", "Warthog", "Yak",
+      "Zebra", "Bobcat", "Elk", "Feral Hog", "Grey Wolf"
+    ],
+    "Actions": [
+      "Attack", "Defend", "Charge", "Hunt", "Ambush",
+      "Strike", "Pounce", "Lash Out", "Protect", "Stalk",
+      "Guard", "Confront", "Assault", "Warn", "Fight",
+      "Bite", "Scratch", "Chase", "Lunge", "Threaten",
+      "Snarl", "Growl", "Snap", "Ravage", "Battle"
+    ]
+  }
+}

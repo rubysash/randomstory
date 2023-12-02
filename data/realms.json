@@ -1,0 +1,22 @@
+{
+  "Realms": {
+    "DescriptiveWords": [
+      "Enchanted", "Secluded", "Forbidden", "Lost", "Ancient",
+      "Mythical", "Floating", "Sunken", "Ruined", "Shrouded",
+      "Distant", "Mystical", "Sacred", "Hidden", "Ethereal",
+      "Isolated", "Remote", "Undiscovered", "Legendary", "Untamed"
+    ],
+    "Nouns": [
+      "Kingdom", "Empire", "Realm", "Province", "Territory",
+      "Land", "Domain", "Nation", "Enclave", "Sanctuary",
+      "Isle", "Archipelago", "Plateau", "Valley", "Expanse",
+      "Wilderness", "Frontier", "Oasis", "Glade", "Grove"
+    ],
+    "Actions": [
+      "Discover", "Rule", "Explore", "Uncover", "Conquer",
+      "Colonize", "Reign", "Garrison", "Annex", "Subdue",
+      "Inhabit", "Settle", "Navigate", "Travel", "Wander",
+      "Map", "Chart", "Claim", "Defend", "Prosper"
+    ]
+  }
+}

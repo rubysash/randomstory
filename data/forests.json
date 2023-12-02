@@ -1,0 +1,22 @@
+{
+  "Forests": {
+    "DescriptiveWords": [
+      "Enchanted", "Dense", "Mystical", "Ancient", "Lush",
+      "Verdant", "Sylvan", "Primeval", "Secluded", "Serene",
+      "Wild", "Tranquil", "Untamed", "Whispering", "Shrouded",
+      "Sacred", "Shadowy", "Thick", "Foggy", "Majestic"
+    ],
+    "Nouns": [
+      "Forest", "Woodland", "Grove", "Thicket", "Timberland",
+      "Jungle", "Rainforest", "Copse", "Bosk", "Wildwood",
+      "Greenwood", "Bushland", "Arboretum", "Orchard", "Stand",
+      "Canopy", "Brushwood", "Backwoods", "Woodlot", "Plantation"
+    ],
+    "Actions": [
+      "Wander", "Explore", "Roam", "Trek", "Forage",
+      "Hide", "Hunt", "Gather", "Stroll", "Commune",
+      "Discover", "Navigate", "Rest", "Inhabit", "Traverse",
+      "Camouflage", "Shelter", "Harvest", "Retreat", "Observe"
+    ]
+  }
+}

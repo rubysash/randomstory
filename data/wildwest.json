@@ -1,0 +1,45 @@
+{
+  "Wildwest": {
+    "DescriptiveWords": [
+      "Rugged", "Dusty", "Lawless", "Frontier", "Pioneering",
+      "Desolate", "Wild", "Tough", "Adventurous", "Rebellious",
+      "Vast", "Unforgiving", "Gritty", "Historic", "Mythic",
+      "Expansive", "Untamed", "Gold-rush", "Iconic", "Lonesome",
+      "Sundrenched", "Trailblazing", "Cowboy", "Outlaw", "Wanderlust",
+      "Homestead", "Rustic", "Spurs-clinking", "Gunslinging", "Saloon-filled",
+      "Cattle-driving", "Prospecting", "Ranching", "Horseback", "Deserted",
+      "Saloons", "Gambling", "Dueling", "Folkloric", "Revolver-smoking",
+      "Sheriff", "Gambler", "Renegade", "Bandit", "Maverick",
+      "Stagecoach", "Train-robber", "Native", "Scout", "Settler",
+      "Bounty-hunter", "Miner", "Cowpoke", "Trailblazer", "Wrangler"
+    ],
+    "Nouns": [
+      "Cowboy", "Indian", "Sheriff", "Outlaw", "Saloon",
+      "Pistol", "Rifle", "Horse", "Stagecoach", "Wagon",
+      "Gold Mine", "Railroad", "Cattle", "Ranch", "Prairie",
+      "Desert", "Town", "Trading Post", "Teepee", "Totem",
+      "Bandana", "Spurs", "Lasso", "Saddle", "Whiskey Bottle",
+      "Poker Table", "Jailhouse", "Bank", "General Store", "Barber Shop",
+      "Dynamite", "Pan", "Claim", "Boot", "Chaps",
+      "Poncho", "Revolver", "Shotgun", "Bounty", "Homestead",
+      "Fort", "Buffalo", "Tumbleweed", "Wanted Poster", "Campfire",
+      "Gold Nugget", "Gallows", "Corral", "Blacksmith", "Stagecoach",
+      "Trail", "Canyon", "Mountain Pass", "Gold Pan", "Lantern",
+      "Trading Post", "Buffalo", "Riverboat", "Telegraph", "Train Station",
+      "Cattle Drive", "Dust Storm", "Gun Belt", "Holster", "Fiddle"
+    ],
+    "Actions": [
+      "Ride", "Hunt", "Shoot", "Prospect", "Gamble",
+      "Herd", "Trade", "Explore", "Settle", "Build",
+      "Track", "Scout", "Drink", "Duel", "Lasso",
+      "Rob", "Chase", "Defend", "Mine", "Negotiate",
+      "Wander", "Survive", "Outlaw", "Rustle", "Arrest",
+      "Brawl", "Dance", "Sing", "Play Cards", "Bargain",
+      "Guide", "Journey", "Claim", "Discover", "Set Trap",
+      "Break Horse", "Repair", "Forge", "Celebrate", "Escape",
+      "Confront", "Rescue", "Race", "Farm", "Pioneer",
+      "Tell Tales", "Trade", "Plan", "Plot", "Scheme",
+      "Barter", "Entertain", "Navigate", "Bluff", "Outsmart"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Gladiators": {
+    "DescriptiveWords": [
+      "Valiant", "Brutal", "Skilled", "Fierce", "Merciless",
+      "Intrepid", "Heroic", "Champion", "Defiant", "Battle-hardened",
+      "Fearless", "Gallant", "Renowned", "Legendary", "Spectacular",
+      "Agile", "Mighty", "Dauntless", "Adroit", "Formidable"
+    ],
+    "Nouns": [
+      "Gladiator", "Arena", "Coliseum", "Combatant", "Warrior",
+      "Duelist", "Contender", "Challenger", "Victor", "Spectator",
+      "Battle", "Tournament", "Melee", "Joust", "Confrontation",
+      "Pitfighter", "Match", "Showdown", "Competition", "Clash"
+    ],
+    "Actions": [
+      "Fight", "Battle", "Compete", "Wrestle", "Conquer",
+      "Defeat", "Entertain", "Clash", "Triumph", "Struggle",
+      "Challenge", "Dominate", "Survive", "Vanquish", "Endure",
+      "Prevail", "Engage", "Duel", "Spar", "Perform"
+    ]
+  }
+}

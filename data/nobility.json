@@ -1,0 +1,22 @@
+{
+  "Nobility": {
+    "DescriptiveWords": [
+      "Regal", "Noble", "Majestic", "Elegant", "Sovereign",
+      "Distinguished", "Aristocratic", "Imperial", "Opulent", "Courtly",
+      "Diplomatic", "Graceful", "Prestigious", "Refined", "Stately",
+      "Authoritative", "Commanding", "Influential", "Lavish", "Luxurious"
+    ],
+    "Nouns": [
+      "King", "Queen", "Prince", "Princess", "Duke",
+      "Duchess", "Courtier", "Nobleman", "Noblewoman", "Baron",
+      "Baroness", "Knight", "Lady", "Lord", "Viceroy",
+      "Crown", "Throne", "Palace", "Chateau", "Crest"
+    ],
+    "Actions": [
+      "Rule", "Govern", "Decree", "Negotiate", "Orchestrate",
+      "Intrigue", "Scheme", "Duel", "Feast", "Dance",
+      "Marry", "Ally", "Betray", "Conspire", "Diplomatize",
+      "Elevate", "Exile", "Flatter", "Plot", "Reign"
+    ]
+  }
+}

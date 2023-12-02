@@ -1,0 +1,22 @@
+{
+  "Mental": {
+    "DescriptiveWords": [
+      "Anxious", "Depressed", "Obsessive", "Manic", "Traumatized",
+      "Stressed", "Paranoid", "Compulsive", "Phobic", "Delusional",
+      "Dissociative", "Schizoid", "Melancholic", "Panic-Stricken", "Hypochondriac",
+      "Insomniac", "Bipolar", "Neurotic", "Psychotic", "Borderline"
+    ],
+    "Nouns": [
+      "Anxiety", "Depression", "OCD", "PTSD", "Stress",
+      "Paranoia", "Phobia", "Mania", "Insomnia", "Schizophrenia",
+      "Dissociation", "Melancholy", "Neurosis", "Psychosis", "Bipolarity",
+      "Hypochondria", "Mood Swings", "Panic Attack", "Delusion", "Fatigue"
+    ],
+    "Actions": [
+      "Struggle", "Cope", "Overcome", "Battle", "Endure",
+      "Face", "Manage", "Recover", "Heal", "Seek Help",
+      "Support", "Empathize", "Counsel", "Treat", "Medicate",
+      "Therapize", "Rest", "Rehabilitate", "Accept", "Adapt"
+    ]
+  }
+}

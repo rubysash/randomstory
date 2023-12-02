@@ -1,0 +1,22 @@
+{
+  "Taverns": {
+    "DescriptiveWords": [
+      "Bustling", "Cozy", "Rowdy", "Lively", "Dimly-lit",
+      "Rustic", "Welcoming", "Noisy", "Smoky", "Famed",
+      "Secluded", "Quaint", "Dingy", "Opulent", "Reputable",
+      "Disreputable", "Crowded", "Peaceful", "Derelict", "Historic"
+    ],
+    "Nouns": [
+      "Inn", "Tavern", "Alehouse", "Pub", "Hostel",
+      "Lodge", "Barroom", "Meadhall", "Brewery", "Roadhouse",
+      "Resthouse", "Public House", "Eating Hall", "Taproom", "Wayside Inn",
+      "Cantina", "Beerhouse", "Winehouse", "Speakeasy", "Grogshop"
+    ],
+    "Actions": [
+      "Serve", "Gather", "Feast", "Drink", "Sing",
+      "Dance", "Celebrate", "Rest", "Mingle", "Tell Tales",
+      "Laugh", "Play Music", "Feud", "Scheme", "Plot",
+      "Brawl", "Negotiate", "Meet", "Lodge", "Carouse"
+    ]
+  }
+}

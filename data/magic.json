@@ -1,0 +1,44 @@
+{
+  "Magic": {
+    "DescriptiveWords": [
+      "Arcane", "Eldritch", "Forbidden", "Mystic", "Elemental",
+      "Primal", "Divine", "Dark", "Transcendent", "Celestial",
+      "Necrotic", "Ethereal", "Invincible", "Illusory", "Omnipotent",
+      "Boundless", "Chaos", "Timeless", "Energetic", "Radiant",
+      "Mystical", "Enchanted", "Ancient", "Mysterious", "Alchemical",
+      "Runed", "Spectral", "Astral", "Dimensional", "Magical",
+      "Occult", "Sorcerous", "Wondrous", "Otherworldly", "Mystifying",
+      "Enigmatic", "Prophetic", "Shamanic", "Arcanist", "Enraptured",
+      "Sigilic", "Transmutative", "Magisterial", "Cabalistic", "Fey",
+      "Druidic", "Hermetic", "Incantatory", "Oracular", "Thaumaturgic",
+      "Wizardly", "Sage-like", "Sibylline", "Warlock-like", "Witchy"
+    ],
+    "Nouns": [
+      "Spell", "Rune", "Glyph", "Sigil", "Talisman",
+      "Wand", "Staff", "Robe", "Cauldron", "Crystal",
+      "Orb", "Scroll", "Grimoire", "Pentacle", "Phylactery",
+      "Incantation", "Charm", "Artifact", "Amulet", "Potion",
+      "Wizard", "Alchemy", "Enchantment", "Ritual", "Familiar",
+      "Sorcerer", "Hex", "Mage", "Magician", "Enchanter",
+      "Sorceress", "Warlock", "Shaman", "Druid", "Priest",
+      "Priestess", "Diviner", "Seer", "Oracle", "Augur",
+      "Necromancer", "Alchemist", "Illusionist", "Bard", "Summoner",
+      "Adept", "Mageblade", "Archmage", "Mystic", "Sage",
+      "Elementalist", "Thaumaturge", "Enchantrix", "Charmer", "Conjuror",
+      "Evoker", "Invoker", "Medium", "Occultist", "Prophet"
+    ],
+    "Actions": [
+      "Cast", "Invoke", "Enchant", "Summon", "Banish",
+      "Transmute", "Conjure", "Bind", "Scry", "Ward",
+      "Hex", "Cure", "Divine", "Predict", "Manifest",
+      "Teleport", "Levitate", "Dispel", "Illuminate", "Empower",
+      "Bewitch", "Channel", "Augur", "Reveal", "Fortify",
+      "Protect", "Strengthen", "Weave", "Align", "Conceal",
+      "Create", "Destroy", "Animate", "Control", "Reshape",
+      "Restore", "Revitalize", "Transform", "Transcend", "Harmonize",
+      "Commune", "Consecrate", "Evoke", "Shield", "Perceive",
+      "Awaken", "Enhance", "Entrap", "Extract", "Reconfigure"
+    ]
+  }
+}
+

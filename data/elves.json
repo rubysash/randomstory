@@ -1,0 +1,22 @@
+{
+  "Elves": {
+    "DescriptiveWords": [
+      "Graceful", "Ethereal", "Ancient", "Wise", "Agile",
+      "Elegant", "Mystical", "Sylvan", "Noble", "Fey",
+      "Arcane", "Timeless", "Immortal", "Enigmatic", "Radiant",
+      "Swift", "Harmonious", "Tranquil", "Refined", "Magical"
+    ],
+    "Nouns": [
+      "Elf", "Archer", "Ranger", "Druid", "Enchanter",
+      "Mage", "Scout", "Diplomat", "Noble", "Artisan",
+      "Sorcerer", "Warrior", "Guardian", "Loremaster", "Seer",
+      "Bard", "Healer", "Prince", "Princess", "Emissary"
+    ],
+    "Actions": [
+      "Guard", "Patrol", "Cast", "Enchant", "Weave",
+      "Hunt", "Forage", "Craft", "Explore", "Sing",
+      "Dance", "Meditate", "Study", "Teach", "Negotiate",
+      "Bless", "Heal", "Commune", "Conjure", "Protect"
+    ]
+  }
+}

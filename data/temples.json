@@ -1,0 +1,22 @@
+{
+  "Temples": {
+    "DescriptiveWords": [
+      "Sacred", "Ancient", "Hallowed", "Majestic", "Solemn",
+      "Glorious", "Sanctified", "Peaceful", "Divine", "Mystical",
+      "Ornate", "Grand", "Spiritual", "Venerable", "Revered",
+      "Tranquil", "Serene", "Holy", "Celestial", "Sublime"
+    ],
+    "Nouns": [
+      "Temple", "Shrine", "Sanctuary", "Chapel", "Altar",
+      "Cathedral", "Abbey", "Monastery", "Convent", "Tabernacle",
+      "Basilica", "Cloister", "Chancel", "Reliquary", "Grotto",
+      "Nunnery", "Pantheon", "Crypt", "Sacristy", "Minster"
+    ],
+    "Actions": [
+      "Pray", "Worship", "Meditate", "Venerate", "Bless",
+      "Sanctify", "Celebrate", "Preach", "Anoint", "Consecrate",
+      "Chant", "Contemplate", "Fast", "Pilgrimage", "Confess",
+      "Atone", "Offer", "Dedicate", "Kneel", "Revere"
+    ]
+  }
+}

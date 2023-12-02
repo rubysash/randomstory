@@ -1,0 +1,45 @@
+{
+  "Steampunk": {
+    "DescriptiveWords": [
+      "Intricate", "Complex", "Engineered", "Innovative", "Mechanical",
+      "Clockwork", "Steampunk", "Retrofuturistic", "Gear-driven", "Piston-powered",
+      "Spring-loaded", "Automated", "Copper-plated", "Brass-bound", "Victorian",
+      "Industrial", "Cobbled", "Rotary", "Ticking", "Whirring",
+      "Ratcheting", "Ornate", "Precision-built", "Hand-crafted", "Vintage",
+      "Sprocketed", "Chain-linked", "Flywheel-operated", "Valve-controlled", "Steam-powered",
+      "Lever-activated", "Pulley-based", "Cogged", "Wound-up", "Cam-operated",
+      "Linkage-connected", "Bolted", "Riveted", "Hydraulic", "Pneumatic",
+      "Electromechanical", "Gauge-monitored", "Filigree-etched", "Bevel-geared", "Escapement-regulated",
+      "Articulated", "Perpetual", "Kinetic", "Servo-mechanized", "Clock-faced",
+      "Spring-tensioned", "Latch-secured", "Panel-mounted", "Fuse-lit", "Wired",
+      "Tube-connected", "Dial-calibrated", "Pedal-driven", "Crank-turned", "Gearbox-assembled"
+    ],
+    "Nouns": [
+      "Gear", "Pulley", "Lever", "Cogwheel", "Spring",
+      "Escapement", "Piston", "Cam", "Sprocket", "Flywheel",
+      "Crankshaft", "Valve", "Gauge", "Linkage", "Bearing",
+      "Clockwork Mechanism", "Steam Engine", "Hydraulic System", "Pneumatic Device", "Drive Shaft",
+      "Differential", "Worm Gear", "Pinion", "Ratchet", "Chain Drive",
+      "Camshaft", "Gearbox", "Coupling", "Axle", "Rotary Dial",
+      "Pressure Valve", "Turbocharger", "Manifold", "Flange", "Actuator",
+      "Solenoid", "Piston Rod", "Carburetor", "Flyball Governor", "Fuse Box",
+      "Turbine", "Boiler", "Altimeter", "Compass", "Periscope",
+      "Airship", "Submarine", "Automaton", "Chronometer", "Sextant",
+      "Telescope", "Planetarium", "Orrery", "Differential Analyzer", "Steam Locomotive",
+      "Timepiece", "Anemometer", "Seismograph", "Telegraph", "Hydrometer",
+      "Gyroscope", "Odometer", "Stethoscope", "Loom", "Throttle"
+    ],
+    "Actions": [
+      "Assemble", "Calibrate", "Operate", "Invent", "Design",
+      "Construct", "Wind", "Rotate", "Adjust", "Activate",
+      "Engage", "Turn", "Align", "Measure", "Control",
+      "Repair", "Maintain", "Lubricate", "Innovate", "Upgrade",
+      "Balance", "Harness", "Generate", "Convert", "Release",
+      "Connect", "Disassemble", "Regulate", "Program", "Power",
+      "Fabricate", "Install", "Synchronize", "Automate", "Modulate",
+      "Enhance", "Optimize", "Transmit", "Revolutionize", "Reconfigure",
+      "Trigger", "Switch", "Monitor", "Drive", "Propel",
+      "Time", "Navigate", "Predict", "Experiment", "Manipulate"
+    ]
+  }
+}

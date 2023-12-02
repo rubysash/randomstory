@@ -1,0 +1,33 @@
+{
+  "Alchemy": {
+    "DescriptiveWords": [
+      "Mystical", "Ethereal", "Potent", "Arcane", "Transmutative",
+      "Elemental", "Alchemical", "Mysterious", "Magical", "Ancient",
+      "Effervescent", "Iridescent", "Phantasmal", "Toxic", "Invigorating"
+    ],
+    "Nouns": [
+      "Potion", "Elixir", "Tincture", "Philter", "Decoction",
+      "Brew", "Concoction", "Remedy", "Serum", "Draught",
+      "Amalgam", "Infusion", "Essence", "Antidote", "Powder",
+      "Philosopher's Stone", "Aludel", "Alembic", "Retort", "Crucible",
+      "Mortar and Pestle", "Athame", "Chalice", "Prima Materia", "Quintessence",
+      "Hermetic Seal", "Cauldron", "Bell Jar", "Aqua Vitae", "Aqua Regia",
+      "Sulfur", "Mercury", "Lead", "Gold", "Silver",
+      "Cinnabar", "Dragon's Blood", "Mandrake Root", "Eye of Newt", "Wolfsbane",
+      "Nightshade", "Hemlock", "Foxglove", "Belladonna", "Artemisia",
+      "Basilisk Breath", "Phoenix Feather", "Unicorn Horn", "Fairy Dust", "Goblin Skin",
+      "Vampire Fang", "Troll Sweat", "Griffin Claw", "Salamander Tail", "Chimera Scale",
+      "Mummy Wrapping", "Zombie Brain", "Ghost Essence", "Spirit Vapor", "Moonbeam",
+      "Sunstone", "Star Fragment", "Ether", "Nether", "Void",
+      "Transmutation Circle", "Orichalcum", "Meteorite Shard", "Vortex Bottle", "Gravity Flask",
+      "Time Sand", "Dimensional Gem", "Reality Shard", "Chaos Orb", "Order Crystal",
+      "Dream Mist", "Thought Prism", "Emotion Vial", "Soul Jar", "Life Elixir",
+      "Death Essence", "Fate Draught", "Destiny Serum", "Mythical Spore", "Legendary Pollen"
+    ],
+    "Actions": [
+      "Brew", "Mix", "Infuse", "Conjure", "Transmute",
+      "Distill", "Enchant", "Experiment", "Combine", "Create",
+      "Cure", "Concoct", "Extract", "Imbue", "Formulate"
+    ]
+  }
+}

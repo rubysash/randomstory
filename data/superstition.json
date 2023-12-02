@@ -1,0 +1,32 @@
+{
+  "Superstition": {
+    "DescriptiveWords": [
+      "Ominous", "Fortuitous", "Mystical", "Prophetic", "Fateful",
+      "Foreboding", "Auspicious", "Portentous", "Uncanny", "Oracular",
+      "Premonitory", "Sinister", "Lucky", "Cursed", "Eerie",
+      "Spectral", "Magical", "Enchanted", "Mythical", "Mysterious"
+    ],
+    "Nouns": [
+      "Black Cat", "Ladder", "Mirror", "Salt", "Rabbit's Foot",
+      "Horseshoe", "Four-Leaf Clover", "Knock on Wood", "Wishbone", "Penny",
+      "Shooting Star", "Birthday Candle", "Ladybug", "Butterfly", "Owl",
+      "Spider", "Acorn", "Rainbow", "Falling Star", "Broken Glass",
+      "Crows", "Ravens", "Chimney Sweep", "Bread", "Scissors",
+      "Holly", "Mistletoe", "Garlic", "Rosemary", "Thyme",
+      "Dandelion", "Basil", "Bay Leaf", "Fennel", "Lavender",
+      "Sage", "Cricket", "Dragonfly", "Firefly", "Goldfish",
+      "Hawk", "Elephant", "Peacock", "Turtle", "Dove",
+      "Bat", "Seahorse", "Swan", "Phoenix", "Unicorn"
+    ],
+    "Actions": [
+      "Avoid", "Bless", "Curse", "Foretell", "Ward",
+      "Protect", "Predict", "Enchant", "Summon", "Banish",
+      "Charm", "Bewitch", "Consecrate", "Cross", "Whisper",
+      "Gesture", "Touch", "Burn", "Hang", "Carry",
+      "Plant", "Sprinkle", "Consume", "Collect", "Release",
+      "Admire", "Respect", "Fear", "Revere", "Invoke",
+      "Hope", "Wish", "Pray", "Conjure", "Venerate",
+      "Obsess", "Dream", "Imagine", "Follow", "Honor"
+    ]
+  }
+}
