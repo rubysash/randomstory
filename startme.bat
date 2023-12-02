@@ -1,0 +1,1 @@
+start cmd /k "Scripts\activate && python storymaker.py"
